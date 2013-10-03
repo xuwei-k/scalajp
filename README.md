@@ -1,4 +1,4 @@
-scalajp
+scalajp [![Build Status](https://travis-ci.org/scalajp/scalajp.png)](https://travis-ci.org/scalajp/scalajp)
 =======
 
 Web Site for [ScalaJP](http://jp.scala-users.org/)
